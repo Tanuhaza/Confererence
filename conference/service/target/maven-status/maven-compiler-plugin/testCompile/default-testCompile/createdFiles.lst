@@ -1,0 +1,9 @@
+ua\rd\cm\services\TopicServiceTest.class
+ua\rd\cm\services\RoleServiceTest.class
+ua\rd\cm\services\SimpleUserInfoServiceTest.class
+ua\rd\cm\services\TypeServiceTest.class
+ua\rd\cm\services\UserServiceTest.class
+ua\rd\cm\services\TalkServiceImplTest.class
+ua\rd\cm\services\ContactTypeServiceTest.class
+ua\rd\cm\infrastructure\fileStorage\FileStorageServiceTest.class
+ua\rd\cm\services\VerificationTokenServiceTest.class
